@@ -32152,6 +32152,7 @@
 		{
 			"id": "03c45849-f374-40d0-8d0b-c80d84adb078",
 			"type": "trait_container",
+			"open": true,
 			"children": [
 				{
 					"id": "b8a09e9e-8942-4de8-b4b9-da5a02d0b1ed",
@@ -33791,6 +33792,7 @@
 						{
 							"id": "132e1596-48d8-4a92-9239-4e8c69f63068",
 							"type": "trait_container",
+							"open": true,
 							"children": [
 								{
 									"id": "8bf9f20d-f8cb-42db-bcf2-1e2d61773437",
@@ -34037,6 +34039,7 @@
 								{
 									"id": "48d49a5d-1f2f-42b8-a774-e2a90ecfbfe8",
 									"type": "trait_container",
+									"open": true,
 									"children": [
 										{
 											"id": "b4ebee7f-9fbc-4941-94bd-2d3c5f49a297",
